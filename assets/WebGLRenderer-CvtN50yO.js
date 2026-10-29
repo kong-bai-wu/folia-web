@@ -1,0 +1,1 @@
+import{WebGLRenderer as e}from"./lib-BPYZucMa.js";export{e as WebGLRenderer};

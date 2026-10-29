@@ -1,0 +1,1 @@
+import{WebGPURenderer as e}from"./lib-BPYZucMa.js";export{e as WebGPURenderer};
